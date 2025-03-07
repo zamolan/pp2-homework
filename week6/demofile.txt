@@ -1,0 +1,7 @@
+Hello! Welcome to demofile2.txt
+This file is for testing purposes.
+Good Luck!
+
+apple
+banana
+cherry
